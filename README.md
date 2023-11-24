@@ -1,17 +1,18 @@
 # 💫 Sobre mi:
 Hola ! Bienvenido a mi perfil !
 
-Me llamo Franco Robles, tengo 27 años y soy estudiante de programación en el Sedes Sapiantiae. Además me gusta mucho estudiar por mi cuenta en mis tiempos libres.
-Llevo un año aprendiendo programación en diversas áreas:
+Me llamo Franco Robles, tengo 28 años y soy estudiante de programación en el Sedes Sapiantiae. Además me gusta mucho estudiar por mi cuenta en mis tiempos libres.
+Llevo dos años aprendiendo programación en diversas áreas:
 *Del lado de la tecnicatura he aprendido las bases de la programación Back-end, las bases de datos relacionales y la lógica de programación. Ademas, este año
 estoy cursando la asignatura de Redes, por lo que armar una red a gran escala va a ser una de mis habilidades en el corto plazo.
 *De mi lado autodidacta he aprendido en un buen nivel, conocimientos en html, css, sas y bootstrap. También he aprendido las bases de javascript y como interactuar con los elementos del dom.
-*Tambien conozco muchos aspectos en el area de la seguridad informatica y se como proteger mis cuentas correctamente (Pendiente para un futuro)
+*Tambien conozco muchos aspectos en el area de la seguridad informatica y se como proteger mis cuentas correctamente.
 
-Además, este año 2023 comencé un curso llamado "Argentina Programa" en el cual pude reforzar mis habilidades con un proyecto final muy útil en el cual tuve una buena experiencia con el trabajo en equipo. 
+Además, en el año 2023 comencé un curso llamado "Argentina Programa" en el cual pude reforzar mis habilidades con un proyecto final muy útil en el cual tuve una buena experiencia con el trabajo en equipo. 
 En ese programa, pudimos aprender html, css, js, bootstrap, sas, jquerry; ademas de contar con muchas fuentes de información para seguir nuestro camino de estudiante.
 
 Mi objetivo de este año será aprender a fondo REACT y Typescript.
+Para eso, me anote a la segunda parte de Argentina Programa para aprender las bases de React, mientras por mi cuenta encontre cursos de Typescript
 
 
 # 💻 Tech Stack:
