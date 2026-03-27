@@ -22,6 +22,3 @@ Argentina · [linkedin.com/in/francorob](https://www.linkedin.com/in/francorob) 
 
 - **[portafolio-dev](https://github.com/FranRob/portafolio-dev)** — Developer portfolio with analytics and admin dashboard. PERN stack, Dockerized, deployed on Vercel + Render + Neon.
 
----
-
-![Snake animation](https://raw.githubusercontent.com/FranRob/FranRob/output/github-contribution-grid-snake-dark.svg)
