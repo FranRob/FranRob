@@ -1,6 +1,7 @@
 # Franco Robles
 
-**Full Stack Developer · 2 years exp · Available for hire**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&width=435&lines=Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Available+for+hire)](https://git.io/typing-svg)
+
 Argentina · [linkedin.com/in/francorob](https://www.linkedin.com/in/francorob) · [divmalcentrado.vercel.app](https://divmalcentrado.vercel.app)
 
 ---
@@ -23,8 +24,4 @@ Argentina · [linkedin.com/in/francorob](https://www.linkedin.com/in/francorob) 
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FranRob&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranRob&theme=dark&hide_border=true&layout=compact)
+![Snake animation](https://raw.githubusercontent.com/FranRob/FranRob/output/github-contribution-grid-snake-dark.svg)
